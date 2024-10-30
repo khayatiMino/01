@@ -31,7 +31,7 @@ table {
     width: 70%;
     border-collapse: collapse; /* Merge borders */
     margin: 0 auto; /* Center the table */
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 100px;
 }
 th, td {

@@ -7,7 +7,15 @@
 }
 
 body {
-    margin: 0;
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Full viewport height */
+    background-color: #f0f8ff; /* Light blue color */
+    font-family: Arial, sans-serif; /* Set a default font */
+}
+
+@keyframes rainbow {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
 }
 
 .besmallh, h2 {
@@ -19,6 +27,7 @@ body {
 
 h2 {
     margin-bottom: 20px;
+    direction: rtl;
 }
 
 table {
@@ -26,6 +35,7 @@ table {
     border-collapse: collapse; /* Merge borders */
     margin: 0 auto; /* Center the table */
     font-size: 20px;
+    margin-bottom: 100px;
 }
 th, td {
     border: 1px solid #000000; /* Border for cells */

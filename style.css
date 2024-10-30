@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&family=Noto+Sans+Arabic:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(246, 196, 213);
+}
+
+.besmallh {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Noto Sans Arabic", sans-serif;
+}

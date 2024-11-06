@@ -112,3 +112,11 @@ tr {
     border-radius: 25px;
     font-size: 12px;
 }
+
+li {
+    list-style-type: none; /* Remove default list style */
+}
+li::before {
+    content: "• "; /* Add your custom bullet */
+    margin-right: 0; /* No space between bullet and text */
+}

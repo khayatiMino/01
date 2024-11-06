@@ -12,6 +12,7 @@ body {
     background-color: #f0f8ff; /* Light blue color */
     font-family: Arial, sans-serif; /* Set a default font */
     height: 3000px;
+    background-color: rgba(255, 183, 229, 0.79);
 }
 
 .besmallh, h2 {

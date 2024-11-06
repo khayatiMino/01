@@ -99,14 +99,14 @@ tr {
 }
 
 .vvvb {
-    margin: 40;
+    margin: 40px;
+    padding: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     direction: rtl;
     background-color: #f0c63e;
-    width: 80%;
-    height: 500px;
+    width: 90%;
     border-radius: 25px;
 }

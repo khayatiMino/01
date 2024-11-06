@@ -11,7 +11,7 @@ body {
     height: 100vh; /* Full viewport height */
     background-color: #f0f8ff; /* Light blue color */
     font-family: Arial, sans-serif; /* Set a default font */
-    margin-bottom: 200px;
+    height: 2000px;
 }
 
 .besmallh, h2 {

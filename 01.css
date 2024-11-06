@@ -35,7 +35,7 @@ table {
     border-collapse: collapse; /* Merge borders */
     margin: 0 auto; /* Center the table */
     font-size: 15px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 th, td {
     border: 2px solid #000000; /* Border for cells */
@@ -67,11 +67,11 @@ tr {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 20px;
 }
 
 .vv {
     margin: 20px;
+    width: 300px;
 }
 
 .partsbut {
@@ -96,3 +96,4 @@ tr {
     justify-content: center;
     direction: rtl;
 }
+

@@ -12,7 +12,7 @@ body {
     background-color: #f0f8ff; /* Light blue color */
     font-family: Arial, sans-serif; /* Set a default font */
     height: 3000px;
-    background-color: rgba(255, 183, 229, 0.79);
+    background-color: rgba(252, 183, 79, 0.79);
 }
 
 .besmallh, h2 {
@@ -45,11 +45,11 @@ th, td {
     text-align: center; /* Center text */
 }
 th {
-    background-color: #181bd6; /* Green background for headers */
-    color: white; /* White text for headers */
+    background-color: #ea490f; /* Green background for headers */
+    color: black; /* White text for headers */
 }
 tr {
-    background-color: #9790cb; /* Light gray background on hover */
+    background-color: #ea490fa3; /* Light gray background on hover */
     font-weight: bold;
 }
 
@@ -78,9 +78,9 @@ tr {
 }
 
 .partsbut {
-    background-color: #351dec;
-    color: white;
-    padding: 5px;
+    background-color: #ffa70f;
+    color: black;
+    padding: 5px 12px;
     font-size: 15px;
     font-weight: bold;
     border: none;
